@@ -7,7 +7,7 @@ masuk pada browser ,dan download dulu git bash atau klik [git bash](http://git-s
 
 setelah terdownload lalu install git bash
 
-![img](gambar/filebash.png)
+![img](gambar/filebash.PNG)
 
 
 lalu akan muncul documen license dari git klik next untuk melanjutkan instalasi
@@ -16,7 +16,7 @@ lalu akan muncul documen license dari git klik next untuk melanjutkan instalasi
 
 lalu akan muncul komponen tambahan untuk install git
 
-![img](gabar/filetambah.png)
+![img](gambar/filetambah.PNG)
 
 lalu tunggu instalasi berjalan sampai selesai
 
@@ -38,7 +38,7 @@ lalu masukan perintah berikut untuk mengecek apakah git sudah terinstall
 
 jika git sudah berhasil terinstall, maka akan muncul tampilan seperti dibawah ini
 
-![img](gambar/version.png)
+![img](gambar/version.PNG)
 
 # MEMBUAT REPOSITORY
 
@@ -48,11 +48,11 @@ buka github pada browser atau klik [github](www.github.com)
 
 setelah masuk ke git akan keluar tampilan berikut ini
 
-![img](gambar/awalan.png)
+![img](gambar/awalan.PNG)
 
 apabila sudah memiliki akun langsung sign in pada github masukan username dan password github .lalu klik sign in
 
-![img](gambar/signin.png)
+![img](gambar/signin.PNG)
 
 # membuat repository baru
 
@@ -66,7 +66,7 @@ lalu isi nama, deskripsi, dan jenis repository , lalu centang add README.md sete
 
 selanjutnya buat folder baru pada local disk komputer untuk menyimpan update file dari repository yang telah dibuat
 
-![img](gambar/newfolder.png)
+![img](gambar/newfolder.PNG)
 
 # buka folder menggunakan git bash
 
@@ -117,7 +117,7 @@ commit berfungsi menambahkan komentar pada file yang baru diupload. masukan peri
 
 kalian bebas memasukan nama commit .
 
-![img](gambar/comit.png)
+![img](gambar/commit.png)
 
 # push ke github
 masukan perintah berikut untuk push ke github
@@ -131,7 +131,7 @@ jika proses berhasil akan muncul tampilan sebagai berikut
 # cek pekerjaan
 masuk ke github dan cek apakah pekerjaan sudah selesai
 
-![img](gambar/cek.png)
+![img](gambar/cek.PNG)
 
 terimakasih
 
