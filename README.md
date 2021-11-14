@@ -16,7 +16,7 @@ lalu akan muncul documen license dari git klik next untuk melanjutkan instalasi
 
 lalu akan muncul komponen tambahan untuk install git
 
-![img](gambar/filetambah.PNG)
+![img](gambar/filetambah.png)
 
 lalu tunggu instalasi berjalan sampai selesai
 
